@@ -1,23 +1,142 @@
 [
     {
-        "title": "Radio",
-        "image": "https://www.soundsofchanges.eu/wp-content/uploads/2018/06/analog-radio-bild.jpg",
-        "description": "Radio is the technology of using radio waves to carry information, such as sound, by systematically modulating properties of electromagnetic energy waves transmitted through space, such as their amplitude, frequency, phase, or pulse width.",
-        "inventor": "Guglielmo Marconi",
-        "date": "24 December 1901"
+        "title": "Abacul",
+        "image": "https://www.ucda.com/files/2116/",
+        "description": "Abacul este unul dintre cele mai vechi instrumente de calcul, cu origini în Mesopotamia în jurul anului 2300 î.Hr. Folosit în diverse forme, inclusiv suanpan-ul chinezesc, abacul constă dintr-un cadru dreptunghiular cu tije și bile mobile care permit efectuarea de operațiuni aritmetice complexe. Acesta a fost esențial în comerț și educație de-a lungul secolelor.\nÎn prezent, abacul rămâne un instrument valoros în educație, ajutând la dezvoltarea abilităților matematice și logice. Folosit în școli, el facilitează înțelegerea aritmeticii de bază și îmbunătățește capacitatea de calcul mental și memoria. Abacul exemplifică cum un instrument tradițional poate avea aplicații practice și beneficii educaționale în lumea modernă.",
+        "inventor": "",
+        "date": "~2300 î.Hr."
     },
     {
-        "title": "Tv",
-        "image": "https://www.myfrontpagestory.com/wp-content/uploads/2022/11/zach-vessels-Y3k1gM8qpwg-unsplash.jpg",
-        "description": "Television (TV), sometimes shortened to tele or telly, is a telecommunication medium used for transmitting moving images in monochrome (black and white), or in color, and in two or three dimensions and sound.",
-        "inventor": "Philo Farnsworth",
-        "date": "7 September 1927"
+        "title": "Ceas solar",
+        "image": "https://luminaonline.files.wordpress.com/2017/07/gradina-botanica-cluj-ceas.jpg?w=1200",
+        "description": "Ceasul solar este unul dintre cele mai vechi dispozitive de măsurare a timpului, apărut în Egiptul Antic în jurul anului 1500 î.Hr. Funcționarea sa se bazează pe umbra unui obiect, numit gnomon, care se deplasează pe o suprafață gradată în funcție de poziția soarelui.\nChiar dacă ceasurile mecanice și electronice moderne l-au înlocuit, ceasul solar rămâne un exemplu fascinant al ingeniozității umane. Acesta continuă să fie folosit în grădini și parcuri pentru a demonstra principiile de bază ale mișcării solare și măsurării timpului.",
+        "inventor": "",
+        "date": "~1500 î.Hr."
     },
     {
-        "title": "Camera",
-        "image": "https://www.thoughtco.com/thmb/GQub1sqthh1a5i1hd2LPCgFRRMw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1620px-1912_Eastman_Kodak_No._3-A_Model_B-3-75c9bd9eab9d467d9e327cc999de85ce.jpg",
-        "description": "A camera is an optical instrument used to capture an image. At their most basic, cameras are sealed boxes (the camera body) with a small hole (the aperture) that allows light in to capture an image on a light-sensitive surface (usually photographic film or a digital sensor).",
-        "inventor": "Joseph Nicéphore Niépce",
-        "date": "1 March 1814"
+        "title": "Clepsidra",
+        "image": "https://i1.sndcdn.com/artworks-000564295796-j4vv79-t500x500.jpg",
+        "description": "Clepsidra, sau ceasul cu apă, a fost folosită încă din jurul anului 400 î.Hr. în China și Grecia Antică. Funcționează prin scurgerea controlată a apei dintr-un recipient în altul, măsurând astfel trecerea timpului.\nÎn ciuda complexității sale, clepsidra a oferit o metodă relativ precisă de măsurare a timpului în vremurile antice. Astăzi, clepsidra este mai mult un obiect de interes istoric și o piesă de decor evocatoare a inovațiilor timpurii în domeniul cronometrajului.",
+        "inventor": "",
+        "date": "~400 î.Hr."
+    },
+    {
+        "title": "Astrolab",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURWkkjPfa54NT_qHAFwznRWMhdW3bNGL3ivT5kRp9qA&s",
+        "description": "Astrolabul, inventat în jurul anului 150 î.Hr. în Grecia Antică, este un instrument folosit pentru a determina pozițiile stelelor și planetelor. A fost utilizat în navigație și astronomie pentru măsurători precise ale altitudinii corpurilor cerești.\nAstăzi, astrolabul este apreciat pentru frumusețea și complexitatea sa mecanică, fiind expus în muzee și colecții private. El reprezintă o etapă importantă în dezvoltarea instrumentelor astronomice și navigaționale.",
+        "inventor": "",
+        "date": "~150 î.Hr."
+    },
+    {
+        "title": "Mecanismul de la Antikythera",
+        "image": "https://cincinnatiwatch.com/cdn/shop/articles/antikythera-replication-ai-chat-gpt.webp?v=1709089706",
+        "description": "Mecanismul de la Antikythera, descoperit pe o epavă lângă insula Antikythera, Grecia, și datat în jurul anului 100 î.Hr., este considerat primul calculator analog din lume. Acesta era folosit pentru a prezice pozițiile astronomice și eclipsele, demonstrând o înțelegere avansată a tehnologiei și matematicii antice.\nRedescoperit la începutul secolului XX, mecanismul a fost studiat intens și s-a dovedit că putea calcula cu precizie mișcările corpurilor cerești. Acest dispozitiv sofisticat evidențiază nivelul impresionant de cunoștințe tehnice și științifice atins de civilizația greacă antică.",
+        "inventor": "",
+        "date": "~100 î.Hr."
+    },
+    {
+        "title": "Ceas mecanic",
+        "image": "https://ceasurilafix.ro/wp-content/uploads/2018/08/CEAS-SKELETON-SEWOR-RAID-72-1.jpg",
+        "description": "Ceasul mecanic a apărut în Europa în secolul al XIV-lea, cu contribuții semnificative din partea mai multor inventatori europeni. Acesta a înlocuit ceasurile solare și clepsidrele, oferind o măsurare mai precisă a timpului.\nDeși ceasurile electronice sunt acum predominante, ceasurile mecanice rămân apreciate pentru meșteșugul și precizia lor. Ele sunt colectate ca piese de artă și continuă să fie fabricate și utilizate în forme tradiționale și moderne.",
+        "inventor": "",
+        "date": "Secolul al XIV-lea"
+    },
+    {
+        "title": "Tiparnița lui Gutenberg",
+        "image": "https://curierulnational.ro/wp-content/uploads/2023/09/Gr.diana_Johannes_Gutenberg.png",
+        "description": "Tiparnița inventată de Johannes Gutenberg în 1440 a revoluționat producția de cărți prin introducerea tiparului cu litere mobile. Aceasta a facilitat răspândirea rapidă a cunoștințelor și a ideilor în Europa Renașterii.\nImpactul tiparniței lui Gutenberg asupra educației, culturii și științei a fost profund, contribuind la Renașterea Europeană și la Iluminism. Aceasta este considerată una dintre cele mai influente invenții din istoria umanității.",
+        "inventor": "Johannes Gutenberg",
+        "date": "1440"
+    },
+    {
+        "title": "Barometru",
+        "image": "https://rovimed.ro/6382-large_default/barometru-aneroid.jpg",
+        "description": "Barometrul, inventat de Evangelista Torricelli în 1643, este un instrument folosit pentru măsurarea presiunii atmosferice. Acesta a fost esențial în dezvoltarea meteorologiei și în previzionarea vremii.\nBarometrele moderne, deși au evoluat tehnologic, se bazează pe același principiu de bază descoperit de Torricelli. Acestea rămân instrumente fundamentale în studiul climei și al condițiilor meteorologice.",
+        "inventor": "Evangelista Torricelli",
+        "date": "1643"
+    },
+    {
+        "title": "Ceas cu pendul",
+        "image": "https://images.woodenstreet.de/image/cache/data%2Fzahab%2Fdelightful-vintage-wooden-pendulum-decorative-wall-clock%2F1-810x702.jpg",
+        "description": "Ceasul cu pendul, inventat de Christiaan Huygens în 1656, a adus o precizie fără precedent în măsurarea timpului. Pendulul a devenit un mecanism esențial în ceasurile de perete și de turn, fiind folosit timp de secole.\nCeasurile cu pendul sunt acum obiecte de colecție și piese de decor, apreciate pentru precizia lor și designul clasic. Ele reprezintă un punct culminant în evoluția tehnologiei de cronometraj.",
+        "inventor": "Christiaan Huygens",
+        "date": "1656"
+    },
+    {
+        "title": "Rechner cu trepte",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJj2KsZg9KbFelnnKVJgf8uygJ-gHuPALQqQYohmWKg&s",
+        "description": "Rechner cu trepte, inventat de matematicianul german Gottfried Wilhelm Leibniz în 1672, este unul dintre primele calculatoare mecanice capabile să efectueze automat adunări, scăderi, înmulțiri și împărțiri. Folosind un mecanism de cilindri cu trepte, acest dispozitiv a reprezentat un pas important în dezvoltarea calculatoarelor, demonstrând o inovare semnificativă în tehnologia de calcul a timpului.\nConstruit pentru a îmbunătăți și a automatiza calculele matematice, dispozitivul a influențat profund dezvoltarea ulterioară a mașinilor de calcul. Deși dispozitivul avea unele limitări și nu era complet fiabil, principiile sale mecanice au pus bazele pentru viitoarele invenții în domeniul calculatoarelor mecanice.",
+        "inventor": "Gottfried Wilhelm Leibniz",
+        "date": "1672"
+    },
+    {
+        "title": "Planetariu mecanic",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Orrery_small.jpg",
+        "description": "Planetariul, inventat de ceasornicarul englez George Graham în 1704, este un model mecanic al sistemului solar folosit pentru a demonstra mișcările planetelor în jurul soarelui. Acesta reproduce cu acuratețe orbitele și vitezele planetelor, permițând studierea fenomenelor astronomice într-un mod vizual și intuitiv.\nAcest instrument educativ a fost folosit atât de astronomi cât și de publicul larg pentru a înțelege mai bine dinamica sistemului solar. Designul său precis și detaliat a transformat modul în care oamenii percep mișcările planetare și a contribuit semnificativ la popularizarea științei astronomiei.",
+        "inventor": "George Graham",
+        "date": "1704"
+    },
+    {
+        "title": "Aritmometru",
+        "image": "https://images.okr.ro/serve/product/339a30d488739187e8f50778d234884d-1020255-1000_1000",
+        "description": "Aritmometrul, inventat de Charles Xavier Thomas de Colmar în 1820, este primul calculator mecanic produs în serie capabil să efectueze operațiuni aritmetice de bază: adunare, scădere, înmulțire și împărțire. Utilizat pe scară largă în birouri și instituții financiare, acest dispozitiv a revoluționat modul de efectuare a calculelor comerciale.\nCu un design robust și fiabil, aritmometrul a devenit un instrument esențial pentru gestionarea financiară și contabilitate. Succesul său comercial a demonstrat nevoia și utilitatea calculatoarelor mecanice, pregătind terenul pentru dezvoltarea ulterioară a tehnologiei de calcul.",
+        "inventor": "Charles Xavier Thomas de Colmar",
+        "date": "1820"
+    },
+    {
+        "title": "Mașină analitică",
+        "image": "https://www.computerhope.com/cdn/analytical-engine.jpg",
+        "description": "Mașina analitică, proiectată de matematicianul englez Charles Babbage în 1837, este considerată un precursor al computerului modern. Acest dispozitiv complex era capabil să execute orice calcul matematic prin intermediul unui set de instrucțiuni programabile, folosind o unitate aritmetică și o memorie.\nDeși niciun prototip complet al Mașinii analitice nu a fost construit în timpul vieții lui Babbage, conceptul său a influențat profund dezvoltarea ulterioară a calculatoarelor. Ideile inovatoare ale lui Babbage privind programarea și procesarea automată a datelor rămân fundamentale în informatică.",
+        "inventor": "Charles Babbage",
+        "date": "1837"
+    },
+    {
+        "title": "Planimetru",
+        "image": "https://www.forestry-suppliers.com/Images/Original/5856_45088_p1.jpg",
+        "description": "Planimetrul, inventat de matematicianul elvețian Jacob Amsler în 1854, este un instrument folosit pentru a măsura aria suprafețelor plane. Acesta transformă contururile complexe în valori numerice precise, fiind utilizat în cartografie, arhitectură și inginerie.\nPrin mecanismul său simplu dar ingenios, planimetrul a permis realizarea măsurătorilor precise și rapide ale suprafețelor, economisind timp și resurse în diverse domenii tehnice. Dispozitivul a devenit un instrument standard în multe practici profesionale, demonstrând eficiența metodelor mecanice de calcul.",
+        "inventor": "Jacob Amsler",
+        "date": "1854"
+    },
+    {
+        "title": "Analizator armonic",
+        "image": "https://c.cdnmp.net/129513333/p/m/5/analizor-calitate-energie-janitza-umg-605-pro-armonice-pana-la-rangul~7861515.jpg",
+        "description": "Analizorul armonic, inventat de fizicianul scoțian William Thomson, cunoscut ca Lord Kelvin, în 1873, este un dispozitiv folosit pentru a descompune semnalele complexe în componente armonice. Acesta utilizează un set de mecanisme și roți pentru a calcula amplitudinile și fazele diferitelor frecvențe dintr-un semnal.\nAcest instrument a fost esențial în studiul undelor și vibrațiilor, permițând o înțelegere mai profundă a fenomenelor periodice. Analizorul armonic a avut aplicații în diverse domenii, de la muzică la inginerie, și a contribuit la dezvoltarea teoriei semnalelor și a analizei spectrale.",
+        "inventor": "William Thomson (Lord Kelvin)",
+        "date": "1873"
+    },
+    {
+        "title": "Analizator diferențial",
+        "image": "https://tor-online.ro/img/produse/6153/aparat-de-masura-digital-ut526-multimetru-pentru-curent-diferential-(rcd),-rezistenta-de-izolatie,-priza-de-pamant.jpg",
+        "description": "Analizorul diferențial, inventat de inginerul american Vannevar Bush în 1927, este un calculator analog folosit pentru a rezolva ecuații diferențiale complexe. Dispozitivul utilizează roți și discuri mecanice pentru a reprezenta și calcula soluțiile ecuațiilor matematice, fiind un instrument crucial în cercetarea științifică și inginerie.\nAcest calculator a avut un impact semnificativ în timpul celui de-Al Doilea Război Mondial și în perioada postbelică, fiind folosit în proiecte de aviație, balistică și energetică. Analizorul diferențial a demonstrat puterea calculatoarelor analogice în rezolvarea problemelor matematice complexe înainte de apariția calculatoarelor digitale.",
+        "inventor": "Vannevar Bush",
+        "date": "1927"
+    },
+    {
+        "title": "Calculator pentru observator astrofizic",
+        "image": "https://www.skywatcher.ro/img/cms/educatie/cupola-baader2m.jpg",
+        "description": "Calculatorul pentru observator astrofizic, utilizat de astronomul american Edwin Hubble în anii 1930, a fost un dispozitiv analog folosit pentru a efectua calcule precise ale mișcărilor și distanțelor galaxiilor. Acesta a permis descoperirea expansiunii universului, fundamentând teoria Big Bang-ului.\nAcest calculator a fost esențial pentru Hubble în măsurarea deplasării spre roșu a galaxiilor, ceea ce a dus la formularea legii lui Hubble. Instrumentele de calcul analogice utilizate în acest context au demonstrat capacitatea lor de a rezolva probleme complexe în astronomie și cosmologie.",
+        "inventor": "Edwin Hubble",
+        "date": "Anii 1930"
+    },
+    {
+        "title": "Analizor diferențial Bush",
+        "image": "https://apellaser.ro/wp-content/uploads/2023/07/Analizor-Optic-de-Particule-3330.jpeg",
+        "description": "Analizorul diferențial Bush, dezvoltat de Vannevar Bush în 1931, este o versiune avansată a analizorului diferențial original, utilizând tehnici mecanice și electrice pentru a rezolva ecuații diferențiale. Acesta a îmbunătățit precizia și viteza calculelor, fiind folosit în proiecte de cercetare avansată.\nAceastă versiune a analizorului diferențial a fost folosită în numeroase aplicații științifice și ingineresti, inclusiv în dezvoltarea tehnologiilor militare și aerospațiale. Inovațiile aduse de Bush în acest dispozitiv au influențat ulterior designul calculatoarelor analogice și digitale.",
+        "inventor": "Vannevar Bush",
+        "date": "1931"
+    },
+    {
+        "title": "Integrator cu bilă și disc",
+        "image": "https://www.turbocad.com/img/cms/blog-images/intrud.jpg",
+        "description": "Integratorul cu bilă și disc, dezvoltat în anii 1940 de diverși ingineri mecanici, este un dispozitiv folosit pentru a efectua integrări matematice mecanice. Acesta utilizează mișcarea unei bile pe un disc rotativ pentru a calcula integralele funcțiilor complexe, fiind utilizat în simulări și modele mecanice.\nAcest instrument a avut aplicații importante în inginerie, în special în domeniul aeronautic și naval, unde era folosit pentru a calcula traiectorii și performanțe dinamice. Integratorul cu bilă și disc a demonstrat versatilitatea și utilitatea calculatoarelor analogice în rezolvarea problemelor tehnice complexe.",
+        "inventor": "",
+        "date": "Anii 1940"
+    },
+    {
+        "title": "Claculator Curta",
+        "image": "https://blog.nationalmuseum.ch/app/uploads/curta-titel.jpg",
+        "description": "Calculatorul Curta, inventat de inginerul austriac Curt Herzstark în 1948, este un calculator mecanic portabil capabil să efectueze operațiuni aritmetice complexe. Mic și eficient, acest dispozitiv a devenit popular printre ingineri și matematicieni pentru precizia și portabilitatea sa.\nCu un design compact și un mecanism ingenios, calculatorul Curta a fost utilizat pe scară largă în diverse domenii, de la inginerie la finanțe. Acesta a rămas un simbol al calculatoarelor mecanice de înaltă precizie și a influențat dezvoltarea ulterioară a calculatoarelor portabile.",
+        "inventor": "Curt Herzstark",
+        "date": "1948"
     }
 ]

@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useState, useRef, Fragment } from 'react';
 import data from '../data.json';
 import './Show.scss';
 
@@ -71,7 +71,16 @@ export default function Show() {
                     </div>
 
                     <div className="description">
-                        <p>{items[indexItem].description}</p>
+                        {/* 
+                            print 2 new lines for each new line in the description and add a tab space
+                        */}
+                        {/* <p>{items[indexItem].description}</p> */}
+                        {items[indexItem].description.split('\n').map((line, i) => (
+                            <Fragment key={i}>
+                                {i !== 0 && <p>&nbsp;</p>} {/* This is for the line break between paragraphs, but not for the first one */}
+                                <p>&emsp;{line}</p> {/* This is for the tab at the start of a new line */}
+                            </Fragment>
+                        ))}
                     </div>
                 </div>
             </div>
