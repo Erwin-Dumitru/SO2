@@ -27,7 +27,7 @@ $purple: #646cff;
         padding: 0;
     }
 
-    .start-page {
+    .top-page {
         position: absolute;
         top: 0;
         left: 0;
@@ -54,6 +54,10 @@ $purple: #646cff;
             filter: blur(5px);
             pointer-events: none;
         }
+    }
+
+    .start-page {
+        z-index: 999999;
 
         h2 {
             max-width: 50%;
@@ -79,6 +83,49 @@ $purple: #646cff;
 
             &:active {
                 filter: brightness(0.8);
+            }
+        }
+    }
+
+    .end-page {
+
+        
+        .credits {
+            position: fixed;
+            bottom: $space;
+            left: $space;
+
+            span {
+                color: #acacac;
+            }
+
+            ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                display: flex;
+                flex-direction: row;
+                gap: $small-space * 2;
+
+                li {
+                    font-size: 1.2em;
+                    color: #acacac;
+                    font-weight: 600;
+                    display: flex;
+                    flex-direction: row;
+                    gap: $small-space;
+
+                    a {
+                        color: #acacac;
+                        text-decoration: none;
+                        transition: all 0.25s ease;
+
+                        &:hover {
+                            color: $purple;
+                        }
+                    }
+                }
+            
             }
         }
     }

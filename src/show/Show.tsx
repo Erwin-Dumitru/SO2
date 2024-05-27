@@ -24,12 +24,23 @@ export default function Show() {
     
                 if (indexItem < items.length - 1) {
                     setIndexItem(indexItem + 1);
+                } else {
+                    setStatus(2);
                 }
             } else if (event.key === 'ArrowLeft') {
                 leftBtn.current?.classList.add('active'); // Add 'active' class to left button
     
                 if (indexItem > 0) {
                     setIndexItem(indexItem - 1);
+                }
+            } else if (event.key === 'Enter') {
+                if (status === 0) {
+                    setStatus(1);
+                    setIndexItem(0);
+                }
+                
+                if (status === 2) {
+                    setStatus(1);
                 }
             }
 
@@ -51,7 +62,7 @@ export default function Show() {
 
     return (
         <div className="show">
-            <div className={`start-page ${status === 0 ? '' : 'hide'}`}>
+            <div className={`top-page start-page ${status === 0 ? '' : 'hide'}`}>
                 <h1>Dispozitive hardware</h1>
                 <h2>O colecție de dispozitive hardware care au schimbat lumea în care trăim de la primele aparate de calcul până la dispozitivele moderne de astăzi.</h2>
 
@@ -102,12 +113,40 @@ export default function Show() {
                     {indexItem + 1} / {items.length}
                 </span>
 
-                <button onClick={() => (indexItem < items.length - 1) && setIndexItem(indexItem + 1)} ref={rightBtn} className={indexItem === items.length - 1 ? 'finish' : ''}>
+                <button 
+                    onClick={() => {
+                        if (indexItem === items.length - 1) {
+                            setStatus(2);
+                        } else {
+                            setIndexItem(indexItem + 1);
+                        }
+                    }}
+                    ref={rightBtn} 
+                    className={indexItem === items.length - 1 ? 'finish' : ''}
+                >
                     {
                         ((indexItem === items.length - 1) && <h4>End</h4>) ||
                         <i className="ri-arrow-right-s-line"></i>
                     }
                 </button>
+            </div>
+
+            <div className={`top-page end-page ${status === 2 ? '' : 'hide'}`}>
+                <h1>Mulțumim!</h1>
+
+                <div className="credits">
+                    <span>
+                        Echipă:
+                    </span>
+
+                    <ul>
+                        <li>Dunca Dragoș</li>
+                        <li>|</li>
+                        <li>Ștefan Tătărucă</li>
+                        <li>|</li>
+                        <li>Dumitru Tristan</li>
+                    </ul>    
+                </div>
             </div>
         </div>
     );
