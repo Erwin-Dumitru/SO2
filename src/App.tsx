@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Show from './show/Show';
-import Add from './add/Add';
+import Start from './start/Start';
 import './App.scss'
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
     <Router>
       <div className='App'>
         <Routes>
-          <Route path="/" element={<Show />} />
-          <Route path="/add" element={<Add />} />
+          <Route path="/" element={<Start />} />
+          <Route path="/show" element={<Show />} />
         </Routes>
       </div>
     </Router>

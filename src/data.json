@@ -84,6 +84,13 @@
         "date": "1820"
     },
     {
+        "title": "Telegraf",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Telegraf.JPG/1200px-Telegraf.JPG",
+        "description": "Telegraful, inventat de Samuel Morse și Alfred Vail în 1837, este un dispozitiv de comunicație care transmite semnale electrice pe distanțe lungi printr-un fir. Acesta a revoluționat comunicarea prin codificarea mesajelor în puncte și linii, cunoscut sub numele de codul Morse, permițând transmiterea rapidă a informațiilor între locații îndepărtate.\nFuncționarea telegrafului implica utilizarea unui electromagnet care acționa un stilou sau o tastă pentru a marca hârtia cu puncte și linii corespunzătoare codului Morse. Stațiile de telegraf erau echipate cu aceste dispozitive pentru a primi și transmite mesaje, facilitând o comunicare mult mai eficientă și rapidă comparativ cu metodele tradiționale, precum curierii sau poșta.",
+        "inventor": "Samuel Morse, Alfred Vail",
+        "date": "1837"
+    },
+    {
         "title": "Mașină analitică",
         "image": "https://www.computerhope.com/cdn/analytical-engine.jpg",
         "description": "Mașina analitică, proiectată de matematicianul englez Charles Babbage în 1837, este considerată un precursor al computerului modern. Acest dispozitiv complex era capabil să execute orice calcul matematic prin intermediul unui set de instrucțiuni programabile, folosind o unitate aritmetică și o memorie.\nDeși niciun prototip complet al Mașinii analitice nu a fost construit în timpul vieții lui Babbage, conceptul său a influențat profund dezvoltarea ulterioară a calculatoarelor. Ideile inovatoare ale lui Babbage privind programarea și procesarea automată a datelor rămân fundamentale în informatică.",
@@ -98,11 +105,32 @@
         "date": "1854"
     },
     {
+        "title": "Radio",
+        "image": "https://images.pexels.com/photos/17872329/pexels-photo-17872329/free-photo-of-close-up-of-vintage-radio.jpeg",
+        "description": "Radioul, inventat de Guglielmo Marconi în 1895 și perfecționat în secolul XX, a revoluționat comunicațiile prin transmiterea de unde radio pe distanțe lungi. Acest dispozitiv folosea semnale electromagnetice pentru a transmite mesaje audio și informații, făcând posibilă comunicarea în timp real fără fir.\nDe la începutul secolului XX, radioul a devenit o parte esențială a vieții cotidiene, fiind utilizat pentru știri, divertisment și comunicații de urgență. Impactul său asupra societății a fost enorm, facilitând schimbul rapid de informații și contribuind la globalizarea comunicațiilor.",
+        "inventor": "Guglielmo Marconi",
+        "date": "1895"
+    },
+    {
         "title": "Analizator armonic",
         "image": "https://c.cdnmp.net/129513333/p/m/5/analizor-calitate-energie-janitza-umg-605-pro-armonice-pana-la-rangul~7861515.jpg",
         "description": "Analizorul armonic, inventat de fizicianul scoțian William Thomson, cunoscut ca Lord Kelvin, în 1873, este un dispozitiv folosit pentru a descompune semnalele complexe în componente armonice. Acesta utilizează un set de mecanisme și roți pentru a calcula amplitudinile și fazele diferitelor frecvențe dintr-un semnal.\nAcest instrument a fost esențial în studiul undelor și vibrațiilor, permițând o înțelegere mai profundă a fenomenelor periodice. Analizorul armonic a avut aplicații în diverse domenii, de la muzică la inginerie, și a contribuit la dezvoltarea teoriei semnalelor și a analizei spectrale.",
         "inventor": "William Thomson (Lord Kelvin)",
         "date": "1873"
+    },
+    {
+        "title": "Televizor",
+        "image": "https://static.ffx.io/images/$zoom_0.188%2C$multiply_0.9735%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/e722bf35826a44312fd4fcf8e582f6413978be01",
+        "description": "Televizorul, dezvoltat de Philo Farnsworth și Vladimir Zworykin în anii 1920 și 1930, a transformat modul în care oamenii primesc informații și divertisment. Acest dispozitiv electronic capta și reda imagini în mișcare, oferind o nouă formă de media vizuală.\nTeleviziunea a devenit rapid o parte integrantă a culturii de masă, influențând opinia publică și modelând comportamentele sociale. De-a lungul secolului XX, televiziunea a evoluat și s-a extins, devenind o platformă principală pentru știri, educație și divertisment la nivel global.",
+        "inventor": "Philo Farnsworth, Vladimir Zworykin",
+        "date": "1920-1930"
+    },
+    {
+        "title": "Difuzorul cu bobină mobilă",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQwU8cCtPjd2-oleC-fCyj3dIA6J4XnVW9lx0W6RJ4w&s",
+        "description": "Difuzorul, sau boxa, este un dispozitiv electroacustic care convertește semnalele electrice în sunete audibile. Inventat de Chester W. Rice și Edward W. Kellogg în anii 1920, difuzorul a transformat modul în care sunetele sunt produse și auzite, devenind o componentă esențială a sistemelor audio.\nFuncționarea difuzorului se bazează pe un electromagnet care acționează un con sau o membrană, producând vibrații ce generează unde sonore. Aceste unde sunt propagate prin aer și percepute de urechea umană ca sunet. Difuzorul este utilizat pe scară largă în diverse aplicații, inclusiv radiouri, televizoare, sisteme de sunet pentru locuințe, echipamente de studio și sisteme publice de adresare.",
+        "inventor": "Chester W. Rice, Edward W. Kellogg",
+        "date": "Anii 1920"
     },
     {
         "title": "Analizator diferențial",
@@ -133,10 +161,52 @@
         "date": "Anii 1940"
     },
     {
+        "title": "Tranzistor",
+        "image": "https://static4.arrow.com/-/media/arrow/images/820-x-410/1222-image-of-transistor-grayscale-820x410-header.jpg",
+        "description": "Transistorul, inventat de John Bardeen, Walter Brattain și William Shockley în 1947, este o componentă esențială a electronicii moderne. Acest dispozitiv mic poate amplifica și comuta semnalele electronice, înlocuind tuburile cu vid și permițând miniaturizarea echipamentelor electronice.\nTransistorul a revoluționat industria electronică, deschizând calea pentru dezvoltarea calculatoarelor, telefoanelor mobile și a numeroaselor dispozitive electronice portabile. Impactul său asupra tehnologiei și societății a fost profund, marcând începutul erei digitale.",
+        "inventor": "John Bardeen, Walter Brattain, William Shockley",
+        "date": "1947"
+    },
+    {
         "title": "Claculator Curta",
         "image": "https://blog.nationalmuseum.ch/app/uploads/curta-titel.jpg",
         "description": "Calculatorul Curta, inventat de inginerul austriac Curt Herzstark în 1948, este un calculator mecanic portabil capabil să efectueze operațiuni aritmetice complexe. Mic și eficient, acest dispozitiv a devenit popular printre ingineri și matematicieni pentru precizia și portabilitatea sa.\nCu un design compact și un mecanism ingenios, calculatorul Curta a fost utilizat pe scară largă în diverse domenii, de la inginerie la finanțe. Acesta a rămas un simbol al calculatoarelor mecanice de înaltă precizie și a influențat dezvoltarea ulterioară a calculatoarelor portabile.",
         "inventor": "Curt Herzstark",
         "date": "1948"
+    },
+    {
+        "title": "VCR (Video Cassette Recorder)",
+        "image": "https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=675%2Cq=85%2Cwidth=1200/wp-content/uploads/vcr-day1.jpg",
+        "description": "Videocasetofonul (VCR), dezvoltat de Charles Ginsburg și echipa sa la Ampex în 1956 și popularizat în anii 1970, a permis înregistrarea și redarea programelor de televiziune pe casete video. Aceasta a schimbat modul în care oamenii consumă media, permițând vizionarea programelor la cerere.\nVCR-ul a revoluționat industria divertismentului, oferind oamenilor control asupra programelor pe care le vizionau și când le vizionau. Această tehnologie a fost un precursor al serviciilor moderne de streaming și a deschis calea pentru înregistrarea și distribuția de conținut video la scară largă.",
+        "inventor": "Charles Ginsburg",
+        "date": "1956"
+    },
+    {
+        "title": "Circuitul integrat",
+        "image": "https://www.cineainventat.ro/wp-content/uploads/2014/10/cine-a-inventat-circuitul-integrat.jpg",
+        "description": "Circuitul integrat, dezvoltat de Jack Kilby și Robert Noyce în 1958, a revoluționat electronica prin integrarea multiplelor componente într-un singur chip. Acest dispozitiv a permis miniaturizarea și creșterea eficienței echipamentelor electronice, facilitând dezvoltarea tehnologiei computerelor.\nCircuitele integrate au devenit fundamentale pentru toate dispozitivele electronice moderne, de la calculatoare și telefoane mobile la echipamente industriale și medicale. Invenția lor a dus la progrese semnificative în tehnologie, permițând dezvoltarea de produse mai rapide, mai mici și mai accesibile.",
+        "inventor": "Jack Kilby, Robert Noyce",
+        "date": "1958"
+    },
+    {
+        "title": "Laser",
+        "image": "https://cdn.shopify.com/s/files/1/0604/2399/5581/files/laser_beam_1.jpg?v=1678957266",
+        "description": "Laserul, inventat de Theodore Maiman în 1960, este un dispozitiv care emite lumină coerentă prin amplificarea luminii prin emisie stimulată de radiație. Această invenție a deschis noi oportunități în știință, medicină, comunicații și industrie.\nUtilizarea laserelor variază de la intervenții chirurgicale de precizie și citirea codurilor de bare la telecomunicații optice și cercetări științifice avansate. Invenția laserului a avut un impact revoluționar asupra numeroaselor domenii, demonstrând versatilitatea și puterea tehnologiei optice.",
+        "inventor": "Theodore Maiman",
+        "date": "1960"
+    },
+    {
+        "title": "Microprocesor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMUlHig06jKYIty7KTn3pj2_MJoGRBwf8UE0r1CpDtw&s",
+        "description": "Microprocesorul, dezvoltat de Intel (Ted Hoff, Federico Faggin și Stanley Mazor) în 1971, este inima calculatoarelor moderne, integrând funcțiile unității centrale de procesare (CPU) într-un singur cip. Aceasta a permis miniaturizarea și creșterea performanței calculatoarelor și a altor dispozitive electronice.\nMicroprocesorul a avut un impact profund asupra tehnologiei, facilitând dezvoltarea de computere personale, dispozitive mobile și o gamă largă de produse electronice inteligente. Evoluția microprocesorului a accelerat progresul tehnologic și a contribuit la apariția erei digitale.",
+        "inventor": "Ted Hoff, Federico Faggin, Stanley Mazor",
+        "date": "1971"
+    },
+    {
+        "title": "Telefonul mobil",
+        "image": "https://i.pinimg.com/originals/06/25/08/0625082b45fd58b059629e1ae7e5d4af.jpg",
+        "description": "Telefonul mobil, dezvoltat de Martin Cooper și echipa sa la Motorola, a fost folosit pentru primul apel efectuat în 1973. Această invenție a revoluționat comunicațiile personale, permițând oamenilor să comunice de oriunde fără a fi legați de linii telefonice fixe.\nDe-a lungul decadelor, telefoanele mobile au evoluat de la dispozitive mari și greoaie la smartphone-uri compacte și multifuncționale. Impactul lor asupra societății este imens, transformând modul în care oamenii comunică, lucrează și se distrează, și facilitând accesul rapid la informații și servicii.",
+        "inventor": "Martin Cooper",
+        "date": "1973"
     }
 ]

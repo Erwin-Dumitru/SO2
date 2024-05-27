@@ -15,8 +15,7 @@ export default function Show() {
     const [indexItem, setIndexItem] = useState(0);
     const leftBtn = useRef<HTMLButtonElement>(null);
     const rightBtn = useRef<HTMLButtonElement>(null);
-
-
+    const [status, setStatus] = useState(0);
 
     useEffect(() => {
         const handleKeyDown = (event: KeyboardEvent) => {
@@ -52,6 +51,15 @@ export default function Show() {
 
     return (
         <div className="show">
+            <div className={`start-page ${status === 0 ? '' : 'hide'}`}>
+                <h1>Dispozitive hardware</h1>
+                <h2>O colecție de dispozitive hardware care au schimbat lumea în care trăim de la primele aparate de calcul până la dispozitivele moderne de astăzi.</h2>
+
+                <button onClick={() => { setStatus(1); setIndexItem(0); }}>
+                    Start
+                </button>
+            </div>
+
             <div className="page">
                 <Images indexItem={indexItem} />
 
@@ -61,12 +69,12 @@ export default function Show() {
                     <div className="details">
                         <div className="detail">
                             <i className="ri-user-line"></i>
-                            <span>{items[indexItem].inventor || 'Unknown'}</span>
+                            <span>{items[indexItem].inventor || 'Necunoscut'}</span>
                         </div>
 
                         <div className="detail">
                             <i className="ri-calendar-line"></i>
-                            <span>{items[indexItem].date || 'Unknown'}</span>
+                            <span>{items[indexItem].date || 'Necunoscut'}</span>
                         </div>
                     </div>
 
@@ -94,7 +102,7 @@ export default function Show() {
                     {indexItem + 1} / {items.length}
                 </span>
 
-                <button onClick={() => setIndexItem(indexItem + 1)} ref={rightBtn} className={indexItem === items.length - 1 ? 'finish' : ''}>
+                <button onClick={() => (indexItem < items.length - 1) && setIndexItem(indexItem + 1)} ref={rightBtn} className={indexItem === items.length - 1 ? 'finish' : ''}>
                     {
                         ((indexItem === items.length - 1) && <h4>End</h4>) ||
                         <i className="ri-arrow-right-s-line"></i>

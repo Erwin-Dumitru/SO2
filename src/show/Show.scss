@@ -27,6 +27,62 @@ $purple: #646cff;
         padding: 0;
     }
 
+    .start-page {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: $space;
+        z-index: 99999;
+        background-color: #1a1a1a;
+        padding: $space;
+        box-sizing: border-box;
+        transition: all 0.5s ease;
+        // background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('https://images.unsplash.com/photo-1618209076877-3b577b275eef?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url('https://images.unsplash.com/photo-1600336757481-6185c4be6ff6?q=80&w=2873&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+        background-size: cover;
+        background-position: center;
+        backdrop-filter: blur(5px);
+
+        &.hide {
+            opacity: 0;
+            filter: blur(5px);
+            pointer-events: none;
+        }
+
+        h2 {
+            max-width: 50%;
+            text-align: center;
+            color: #e0e0e0;
+        }
+
+        button {
+            background-color: $purple;
+            color: #e0e0e0;
+            font-size: 1.5em;
+            font-weight: 600;
+            padding: $small-space $space;
+            border: none;
+            border-radius: $small-space;
+            cursor: pointer;
+            transition: all 0.25s ease;
+
+            &:hover {
+                background-color: lighten(#1a1a1a, 10%);
+                color: $purple;
+            }
+
+            &:active {
+                filter: brightness(0.8);
+            }
+        }
+    }
+
     .page {
         display: flex;
         flex-direction: row;
