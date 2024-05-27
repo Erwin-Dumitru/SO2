@@ -37,9 +37,7 @@ export default function Show() {
                 if (status === 0) {
                     setStatus(1);
                     setIndexItem(0);
-                }
-                
-                if (status === 2) {
+                }else if (status === 2) {
                     setStatus(1);
                 }
             }
