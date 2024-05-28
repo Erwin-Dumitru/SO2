@@ -21,7 +21,7 @@ export default function Show() {
         const handleKeyDown = (event: KeyboardEvent) => {
             if (event.key === 'ArrowRight') {
                 rightBtn.current?.classList.add('active'); // Add 'active' class to right button
-    
+
                 if (indexItem < items.length - 1) {
                     setIndexItem(indexItem + 1);
                 } else {
@@ -29,7 +29,7 @@ export default function Show() {
                 }
             } else if (event.key === 'ArrowLeft') {
                 leftBtn.current?.classList.add('active'); // Add 'active' class to left button
-    
+
                 if (indexItem > 0) {
                     setIndexItem(indexItem - 1);
                 }
@@ -37,8 +37,9 @@ export default function Show() {
                 if (status === 0) {
                     setStatus(1);
                     setIndexItem(0);
-                }else if (status === 2) {
+                } else if (status === 2) {
                     setStatus(1);
+                    setIndexItem(items.length - 1);
                 }
             }
 
@@ -55,8 +56,8 @@ export default function Show() {
         return () => {
             window.removeEventListener('keydown', handleKeyDown);
         };
-    }, [indexItem, items.length]);
-        
+    }, [indexItem, items, status]);
+
 
     return (
         <div className="show">

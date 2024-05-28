@@ -208,5 +208,216 @@
         "description": "Telefonul mobil, dezvoltat de Martin Cooper și echipa sa la Motorola, a fost folosit pentru primul apel efectuat în 1973. Această invenție a revoluționat comunicațiile personale, permițând oamenilor să comunice de oriunde fără a fi legați de linii telefonice fixe.\nDe-a lungul decadelor, telefoanele mobile au evoluat de la dispozitive mari și greoaie la smartphone-uri compacte și multifuncționale. Impactul lor asupra societății este imens, transformând modul în care oamenii comunică, lucrează și se distrează, și facilitând accesul rapid la informații și servicii.",
         "inventor": "Martin Cooper",
         "date": "1973"
+    },
+    {
+        "title": "Tastatură",
+        "image": "https://static.wixstatic.com/media/0c3e9e_ae9f50aac71a490fbeede7ec7e0c479d~mv2.jpg/v1/fill/w_564,h_564,al_c,q_90,enc_auto/Sholes%20and%20Glidden%20Typewriter%20Decorated%20.jpg",
+        "description": "Prima mașină de scris practică, care a servit drept precursor pentru tastaturile moderne de calculator, a fost inventată de Christopher Latham Sholes, Carlos Glidden și Samuel Soule în 1868. Mașina de scris, cunoscută sub numele de Sholes and Glidden sau Remington No. 1, a fost ulterior fabricată și comercializată de E. Remington and Sons, un producător de arme de foc.Mașina de scris Sholes and Glidden era un dispozitiv mecanic conceput pentru a tipări caractere pe hârtie. Dispunea de o tastatură cu aspect QWERTY, care rămâne layout-ul standard pentru tastaturi și astăzi. Mașina de scris avea un design unic în care brațele tipografice loveau în sus o bandă de cerneală pentru a transfera caracterele pe hârtie. Dispozitivul putea scrie doar cu majuscule.",
+        "date": "1868",
+        "inventor": "Christopher Latham Sholes/Carlos Glidden/Samuel Soule" 
+    },
+    {
+        "title": "Microfon ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Alexander_Graham_Telephone_in_Newyork.jpg/330px-Alexander_Graham_Telephone_in_Newyork.jpg",
+        "description": "Primul microfon a fost inventat în anul 1876 de Alexander Graham Bell, un pionier al tehnologiei de comunicare. Microfonul său lichid, cunoscut și sub numele de microfonul lui Bell, era un dispozitiv rudimentar, dar eficient pentru transmiterea sunetului. Bell, cunoscut și pentru inventarea telefonului, a dezvoltat microfonul pentru a îmbunătăți calitatea transmisiunilor audio.Mai târziu, Thomas Edison a îmbunătățit acest design și a dezvoltat microfonul cu cărbune, care a fost mult mai eficient pentru amplificarea sunetului. Inventarea microfonului a fost crucială pentru dezvoltarea industriei de radiodifuziune, telecomunicații și înregistrări muzicale.",
+        "date": "1876",
+        "inventor": "Alexander Graham Bell" 
+    },
+    {
+        "title": "Proiector",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Zoopraxiscope_16485u.jpg/300px-Zoopraxiscope_16485u.jpg",
+        "description": "Eadweard Muybridge a inventat zoopraxiscopul, un dispozitiv care putea proiecta secvențe de imagini pe un ecran pentru a crea iluzia mișcării. Aceasta a fost una dintre primele încercări de a crea animații și filme. Acest dispozitiv folosea discuri rotative cu imagini succesive care, când erau proiectate rapid, dădeau impresia de mișcare continuă. Thomas Edison și William Kennedy Laurie Dickson: Edison și Dickson au dezvoltat kinetoscopul în anii 1890, un dispozitiv de vizionare individuală care folosea o bandă de film continuă pentru a proiecta imagini în mișcare. Kinetoscopul a fost precursorul proiectoarelor de film.",
+        "date": "1879",
+        "inventor": "Eadweard Muybridge" 
+    },
+    {
+        "title": "Cititor de carduri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/HollerithMachine.CHM.jpg/330px-HollerithMachine.CHM.jpg",
+        "description": "Hollerith a inventat o metodă pentru înregistrarea și citirea datelor prin intermediul cartelelor perforate, care era folosită pentru stocarea și procesarea informațiilor. Sistemul a fost folosit inițial pentru a tabula datele recensământului din Statele Unite din 1890. Hollerith a fondat mai târziu compania Tabulating Machine Company, care, după o serie de fuziuni, a devenit IBM. Sistemele de cartele perforate au fost folosite pe scară largă în calculatoarele timpurii pentru a introduce date și pentru a controla funcționarea acestora.",
+        "date": "1889",
+        "inventor": "Herman Hollerith" 
+    },
+    {
+        "title": "Monitor",
+        "image": "https://assets-us-01.kc-usercontent.com/9dd25524-761a-000d-d79f-86a5086d4774/111088f4-bfa6-4f93-95d9-458b99f0ad2b/braun6.jpg?w=800&h=449&auto=format&q=75&fit=crop",
+        "description": "Tubul catodic folosea un fascicul de electroni pentru a crea imagini pe un ecran fosforescent. Acest principiu a fost folosit ulterior pentru a dezvolta televizoare și monitoare CRT. Inițial folosit pentru a demonstra proprietăți ale curenților electrici și pentru cercetări în domeniul fizicii, ulterior a fost adaptat pentru afișarea imaginilor video.",
+        "date": "1897",
+        "inventor": "Karl Ferdinand Braun" 
+    },
+    {
+        "title": "Casti",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/vvGDrhsYFTx0I7GE0qKqcXmESKo=/fit-in/1072x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b3/3e/b33ead51-22e5-4bd7-84db-65c6159e2266/baldwin-headphones.jpg",
+        "description": "În 1910, Nathaniel Baldwin a inventat primele căști moderne în bucătăria sa. Baldwin și-a vândut invenția marinei americane, dar nu a avut un succes imediat. Căștile sale nu erau doar incomode, dar nici nu au fost adoptate pe scară largă inițial.Un deceniu mai târziu, căștile s-au îmbunătățit odată cu invenția căștilor dinamice de către Beyerdynamic în 1937, care foloseau tehnologie electromagnetică pentru o calitate mai bună a sunetului. Aceasta a marcat prima aplicație comercială a driverelor dinamice, un element esențial al căștilor moderne.În 1958, John C. Koss, un muzician de jazz, a creat primele căști stereo, fiind ideale pentru iubitorii de muzică. Căștile sale Model 3 au fost concepute special pentru ascultarea de înaltă fidelitate, revoluționând modul în care oamenii experimentau muzica.La sfârșitul anilor 1970, Walkman-ul de la Sony a introdus căști ușoare, revoluționând portabilitatea și ascultarea muzicii în mișcare. Această tendință a continuat cu îmbunătățiri în tehnologia de anulare a zgomotului de către Dr. Amar Bose în anii 1980, care au îmbunătățit semnificativ experiența de ascultare prin blocarea zgomotului ambiental nedorit.",
+        "date": "1910",
+        "inventor": "Nathaniel Baldwin" 
+    },
+    {
+        "title": "Boxe",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Edward_Kellogg_%26_Chester_Rice_with_cone_speaker_1925.jpg",
+        "description": "C.W. Rice de la General Electric și E.W. Kellogg de la AT&T au lucrat împreună în Schenectady, New York, pentru a dezvolta difuzorul modern și primul sistem electric de amplificare. Ei au creat un prototip funcțional în 1921. Rice și Kellogg au rezolvat problemele finale, ceea ce a condus la un sunet clar și curat. Încercările anterioare de a crea difuzorul au generat un sunet neclar și inacceptabil. Acest sunet neclar nu era suficient de bun pentru a concura cu cornul, care era bine stabilit pe piață. Rice și Kellogg au reușit să înțeleagă pe deplin reproducerea tuturor frecvențelor necesare pentru a crea un sunet audio precis. Prototipul lor avea un interval dinamic suficient de larg pentru a fi mai bun decât cornul, oferind în același timp capacitatea de a crește semnificativ volumul (dB). În 1925, au depus cereri de brevet și au ținut un discurs la St. Louis pentru AIEE. După câțiva ani de muncă, l-au perfecționat ca fiind primul produs comercial de acest fel, numit Radiola Loudspeaker #104. S-a vândut în 1926 pentru 250 de dolari (aproximativ 3000 de dolari astăzi). Difuzorul a fost produs sub numele companiei RCA.",
+        "date": "1921",
+        "inventor": "C.W. Rice/E.W. Kellogg " 
+    },
+    {
+        "title": "UPS (Uninterruptible Power Supply)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/UPSFrontView.jpg/264px-UPSFrontView.jpg",
+        "description": "Primul UPS (Uninterruptible Power Supply) a fost inventat de John J. Hanley și patentat în 1934 sub denumirea de Apparatus For Maintaining An Unfailing and Uninterrupted Supply of Electrical Energy. Acest dispozitiv a fost conceput pentru a furniza energie electrică neîntreruptă, asigurând funcționarea continuă a echipamentelor critice în cazul unei întreruperi de energie. Sistem rotativ cu volant, care folosea energia cinetică stocată în volant pentru a furniza curent continuu în timpul întreruperilor de energie. Aceste sisteme erau capabile să ofere energie de rezervă pentru scurt timp, între 20 și 90 de secunde.De-a lungul timpului, tehnologia UPS a evoluat semnificativ. De la sistemele inițiale rotative, s-a trecut la utilizarea bateriilor și a altor tehnologii avansate pentru a asigura o protecție mai extinsă și o autonomie mai mare. UPS-urile moderne sunt esențiale pentru protejarea datelor și a echipamentelor în diverse industrii, inclusiv IT, telecomunicații, medical.",
+        "date": "1934",
+        "inventor": "John J. Hanley" 
+    },
+    {
+        "title": "Sursă de alimentare",
+        "image": "https://hackaday.com/wp-content/uploads/2023/10/ferroresonant_constant_voltage_transformer.jpg?w=800",
+        "description": "Un transformator ferorezonant, un tip de transformator saturant folosit ca regulator de tensiune, a fost inventat de Joseph Sola în 1938. Aceste transformatoare sunt cunoscute pentru capacitatea lor de a oferi o tensiune de ieșire stabilă, în ciuda variațiilor de curent sau sarcină (UST).Transformatoarele ferorezonante au fost utilizate frecvent în primele surse de alimentare pentru calculatoare, cum ar fi în terminalele de afișare IBM 3278 și în calculatorul mini Data General MV20000 la sfârșitul anilor 1970.Sursele de alimentare ferorezonante continuă să fie utilizate în aplicații care necesită tensiuni de ieșire stabile, cum ar fi sursele neîntreruptibile de energie (UPS), sistemele invertor și stabilizatoarele de tensiune",
+        "date": "1938",
+        "inventor": "Joseph Sola" 
+    },
+    {
+        "title": "Imprimantă",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Xerox_914.jpg/330px-Xerox_914.jpg",
+        "description": "Prima imprimantă, ca dispozitiv hardware, a fost inventată în 1938 de Chester Carlson, un fizician american. Aceasta a fost cunoscută sub numele de Xerox Model A și era o imprimantă electrofotografică, bazată pe procesul de xerografie. Carlson a dezvoltat acest proces de imprimare, care a fost ulterior folosit pentru a crea primele fotocopiatoare și imprimante laser.Imprimanta Xerox Model A a folosit pentru prima dată procesul de xerografie, care implică atragerea particulelor de toner pe o foaie de hârtie.Chester Carlson a inventat imprimanta pentru a facilita copierea documentelor și a eliminat nevoia de a transcrie manual informațiile.",
+        "date": "1938",
+        "inventor": "Chester Carlson" 
+    },
+    {
+        "title": "Memorie RAM",
+        "image": "https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg",
+        "description": "La Universitatea din Manchester, Freddie Williams și Tom Kilburn dezvoltă tubul Williams-Kilburn. Tubul, testat în 1947, a fost prima memorie electronică completă, de mare viteză. Acesta folosea un tub catodic (similar cu tubul unui televizor analog) pentru a stoca biți sub formă de puncte pe suprafața ecranului. Fiecare punct dura o fracțiune de secundă înainte de a dispărea, astfel încât informațiile erau reîmprospătate constant. Informațiile erau citite de o placă metalică de preluare care detecta o schimbare a sarcinii electrice.",
+        "date": "1947",
+        "inventor":"Freddie Williams si Tom Kilburn"
+    },
+    {
+        "title": "Sistem de Recunoaștere Vocală: AUDREY",
+        "image": "https://computerhistory.org/wp-content/uploads/2021/06/Bell-Laboratories-invented-Audrey-e1516226356641.jpeg",
+        "description": "Primul sistem de recunoaștere vocală, denumit AUDREY, a fost dezvoltat de Bell Laboratories în 1952. AUDREY (Automatic Digit Recognizer) putea recunoaște cifrele de la 0 la 9 rostite de o singură voce. Sistemul utiliza un proces de analiză spectrală pentru a descompune sunetele în componentele lor frecvențiale și pentru a compara aceste modele cu seturi predefinite de tipare stocate. AUDREY putea recunoaște doar cifrele și era sensibil la variațiile în modulația vocală, accent și ritm. De asemenea, putea lucra doar cu o voce antrenată specific pentru sistem. Astfel avea o acuratețe de aproximativ 90%, dar numai dacă erau rostite de inventatorul său. Precizia scădea semnificativ când alte persoane foloseau sistemul.",
+        "date": "1952",
+        "inventor": "Bell Laboratories" 
+    },
+    {
+        "title": "Light pen",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HypertextEditingSystemConsoleBrownUniv1969.jpg/330px-HypertextEditingSystemConsoleBrownUniv1969.jpg",
+        "description": "Un dispozitiv de intrare care permite utilizatorilor să interacționeze cu un ecran CRT prin atingerea acestuia cu un stilou sensibil la lumină.Folosit pentru selecția directă și desenarea pe ecran în aplicații grafice și de design. Dezvoltat în anii 1950 pentru utilizare cu computerul Whirlwind la MIT.",
+        "date": "1955",
+        "inventor": "Tom Dimond" 
+    },
+    {
+        "title": "Scaner imagini",
+        "image": "https://history-computer.com/ModernComputer/Basis/images/SEACscanner.jpg",
+        "description": "Primul scanner, ca dispozitiv hardware, a fost inventat în 1957 de către Russell A. Kirsch și echipa sa la National Bureau of Standards din Statele Unite. Dispozitivul se numea drum scanner și era folosit pentru a scana imagini. Prima imagine scanată a fost o fotografie de 5 cm pătrați a fiului lui Kirsch, Walden .Scannerul a fost un instrument revoluționar în tehnologia de procesare a imaginilor.Drum scanner-ul lui Kirsch utiliza un tambur rotativ pentru a captura imagini digitale.Prima imagine scanată era o fotografie alb-negru cu rezoluție de 176 de pixeli.Scannerul a marcat un punct de cotitură în digitizarea și prelucrarea imaginilor.Kirsch a deschis calea pentru tehnologiile de scanare moderne pe care le folosim astăzi.",
+        "date": "1957",
+        "inventor": "Russell A. Kirsch" 
+    },
+    {
+        "title": "Modem",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Teletype-Bell-101C.jpg/330px-Teletype-Bell-101C.jpg",
+        "description": "Bell 101 modem a fost dezvoltat pentru a permite comunicațiile de date între terminale și computere mainframe, în special pentru aplicații de apărare și afaceri. Modemul a fost parte a unei serii de inovații care au permis dezvoltarea comunicațiilor de date și, ulterior, a internetului. Are o viteza de doar 110 biti pe secunda, folosind tehnologia  FSK (Frequency Shift Keying), Modularea în frecvență, avand ca si utilizare transmisii de date prin linii telefonice între terminale și mainframe-uri",
+        "date": "1958",
+        "inventor": "AT&T (Bell Labs)" 
+    },
+    {
+        "title": "Mouse",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SRI_Computer_Mouse.jpg/330px-SRI_Computer_Mouse.jpg",
+        "description": "Mouse-ul original avea cablul în față, dar l-au mutat rapid în partea din spate pentru a-l ține departe. Era un dispozitiv mecanic simplu, cu două discuri montate perpendicular pe partea de jos. Puteai să înclini sau să balansezi mouse-ul pentru a trasa linii perfect drepte orizontale sau verticale.Engelbart a depus cererea de brevet în 1967 și a primit-o în 1970, ca cesionar al SRI, pentru carcasa de lemn cu două roți metalice. El a creat dispozitivul pentru a funcționa ca indicator de poziție X-Y pentru un sistem de afișare. „A fost poreclit mouse pentru că coada ieșea la capăt”, a dezvăluit Engelbart despre invenția sa. Versiunea sa de ferestre și GUI nu a fost considerată brevetabilă (nu se acordau brevete pentru tipuri de software în acea perioadă), dar Engelbart a avut peste 45 de alte brevete la numele său la sfârșitul carierei.Cele două discuri metalice puteau controla poziția X-Y, dar aveau utilizări practice limitate. Aceste roți puteau să se miște doar pe anumite suprafețe, așa că designul a fost îmbunătățit de Bill English cu primul mouse cu bilă. Designul de bază al mouse-ului a fost ulterior îmbunătățit de Apple, ca parte a evoluției sale către design-urile moderne.",
+        "date": "1967",
+        "inventor": "Douglas Engelbart" 
+    },
+    {
+        "title": "Head-mounted Display (HMD)",
+        "image": "https://historyofinformation.com/images/pic3.jpg",
+        "description": "Ivan Sutherland, considerat părintele graficii pe calculator, a dezvoltat primul HMD, cunoscut sub numele de Sword of Damocles. Acesta era un dispozitiv voluminos, montat pe tavan, care proiecta imagini de bază generate de calculator.Primul head-mounted display (HMD) a fost cunoscut sub numele de Sword of Damocles. Acesta a fost creat de Ivan Sutherland, un pionier al graficii computerizate, și de studentul său, Bob Sproull, în 1968. Dispozitivul a fost un precursor al tehnologiilor moderne de realitate virtuală și augmentată. Sistemul folosea două monitoare CRT (Cathode Ray Tube) pentru a afișa imagini wireframe simple. Aceste imagini erau coordonate cu mișcările capului utilizatorului printr-un sistem de urmărire mecanică.Sistemul a fost folosit inițial pentru a demonstra concepte de grafică 3D și interacțiune om-calculator. Utilizatorii puteau vedea și interacționa cu obiecte virtuale simple, cum ar fi camere și cuburi wireframe.",
+        "date": "1968",
+        "inventor": "Ivan Sutherland" 
+    },
+    {
+        "title": "CPU (Central processing unit)",
+        "image": "https://spectrum.ieee.org/media-library/photo-intel.jpg?id=25586036&width=1200&height=900",
+        "description": "În 1969, Nippon Calculating Machine Corporation a colaborat cu Intel pentru a dezvolta un set revoluționar de patru cipuri pentru calculatorul Busicom 141-PF, reducând complexitatea proiectului inițial de 12 cipuri. Intel a lansat procesorul 4004 în 1971, marcând o etapă semnificativă prin introducerea primului procesor programabil cu scop general. Această inovație a deschis o nouă eră în electronica integrată, demonstrând impactul colaborării și inovației tehnologice. Iar pe de alta parte, acesta, fiind totusi de o marime redusa, avea puterea de procesare cat unul cat camera.",
+        "inventor": "Intel",
+        "date": "1969"
+    },
+    {
+        "title": "Router",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ARPANET_first_router.jpg/393px-ARPANET_first_router.jpg?20121101213658",
+        "description": "Primul router, cunoscut ca Interface Message Processor (IMP), a fost dezvoltat de Bolt, Beranek and Newman (BBN) pentru ARPANET în 1969. IMP-urile au fost esențiale pentru dezvoltarea rețelei ARPANET, predecesorul internetului modern, și au funcționat ca primele dispozitive de comutare a pachetelor, similar cu routerele de astăzi.",
+        "date": "1969",
+        "inventor": "Bolt, Beranek si Newman" 
+    },
+    {
+        "title": "Placă de rețea (NIC)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Network_card.jpg/330px-Network_card.jpg",
+        "description": "Ethernet-ul original dezvoltat de Metcalfe și echipa sa a folosit o topologie de magistrală și un cablu coaxial gros pentru a transmite date la viteze de până la 2.94 Mbps. Placa de rețea dezvoltată pentru acest sistem a fost una dintre primele dispozitive care a permis calculatoarelor să comunice eficient într-o rețea locală.",
+        "date": "1973",
+        "inventor": "Robert Metcalfe"
+    },
+    {
+        "title": "Placă de bază (Motherboard)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/IBM_PC_Original_Monochrome_Display_and_Parallel_Printer_Adapter.jpg",
+        "description": "Prima placă video, cunoscută și sub numele de adaptor grafic, a fost IBM Monochrome Display Adapter (MDA), introdusă în 1981. MDA nu a fost capabilă să afișeze grafică color, ci doar text monocrom și câteva elemente grafice de bază într-un singur color. A fost folosită inițial în IBM PC și a reprezentat un pas important în dezvoltarea tehnologiei de afișare pentru computere. De asemenea putea afisa doar 80 de coloane si 25 de linii.",
+        "date": "1981",
+        "inventor": "IBM"
+    },
+    {
+        "title": "Stick USB",
+        "image": "https://imgs.search.brave.com/V9Ww_GphCd9RbjeYG_4npVkzDpIP2FtFUGgRHLC1j-Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cHJlbWl1bXVzYi5j/b20vY29udGVudC9p/bWFnZXMvc2l0ZXBy/ZW1pdW0vYmxvZy9V/U0JfSW1hZ2VfV2lr/aXBlZGlhLmpwZw",
+        "description": "Memoria flash a fost proiectată de Fujio Masuoka, care lucra pentru Toshiba la acea vreme. El a creat EEPROM-ul original (memorie de citire numai programabilă și ștersă electronic). Numele „flash” a fost sugerat de Shoji Ariizumi, colegul lui Masuoka, deoarece procesul de ștergere a conținutului i-a amintit de un blitz de cameră. Masuoka a introdus memoria flash în 1984 la întâlnirea International Electron Devices Meeting, unde Intel a manifestat un mare interes.",
+        "date": "1984",
+        "inventor": "Fujio Masouka" 
+    },
+    {
+        "title": "Placa de sunet",
+        "image": "https://i.pcmag.com/imagery/lineupitems/01KKu8GtBQhWSAdqxlVLHze.fit_lim.size_800x440.v1569506922.jpg",
+        "description": "AdLib Music Synthesizer Card a fost prima placă de sunet care a avut un impact semnificativ pe piața PC-urilor, stabilind un nou standard pentru sunetul computerizat. Popularitatea sa a determinat alte companii să dezvolte plăci de sunet compatibile, ducând la evoluția rapidă a tehnologiei audio pentru computere. În 1989, Creative Labs a lansat Sound Blaster, care a inclus compatibilitate AdLib, împreună cu funcționalități suplimentare, cum ar fi un port MIDI și înregistrare audio digitală, ceea ce a consolidat poziția Sound Blaster ca standard de facto în industria plăcilor de sunet.",
+        "date": "1987",
+        "inventor": "AdLib, Inc." 
+    },
+    {
+        "title": "Network-attached storage (NAS)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NAS_server.png/330px-NAS_server.png",
+        "description": "Primul dispozitiv NAS (Network Attached Storage) a fost dezvoltat de Auspex Systems în 1989. Acesta a fost conceput pentru a permite accesul centralizat la date prin intermediul unei rețele, facilitând stocarea și gestionarea fișierelor pentru utilizatori și aplicații dintr-o rețea de calculatoare.",
+        "date": "1989",
+        "inventor": "Auspex Systems"
+        
+    },
+    {
+        "title": "Webcam",
+        "image": "https://i.blogs.es/ae5ec1/trojan/1366_2000.jpeg",
+        "description": "Primul webcam, ca dispozitiv hardware, a fost inventat în anul 1991 de către o echipă de cercetători de la Universitatea din Cambridge. Aceștia au numit dispozitivul Trojan Room Coffee Pot și a fost creat pentru a monitoriza starea unei cafetiere aflate într-o cameră de la facultate. Printre inventatorii principali se numără Quentin Stafford-Fraser și Paul Jardetzky.Webcam-ul a fost inițial conceput pentru a permite oamenilor din laborator să verifice dacă mai era cafea în cafetieră fără a se ridica de la birourile lor. Camera era conectată la rețeaua de calculatoare a universității și transmitea imagini în timp real, fiind astfel primul webcam funcțional din lume. Această invenție simplă, dar eficientă, a deschis calea pentru webcam-urile moderne pe care le folosim astăzi în comunicare și supraveghere.",
+        "date": "1991",
+        "inventor": "Quentin Stafford-Fraser/Paul Jardetzky" 
+    },
+    {
+        "title": "Switch",
+        "image": "https://www.rcsri.org/collection/kalpana/kalpana-boardt.jpg",
+        "description": "Prima companie care a dezvoltat și comercializat un switch Ethernet a fost Kalpana, fondată în 1989. Kalpana a introdus primul switch Ethernet comercial în 1990, cunoscut sub numele de EtherSwitch. EtherSwitch-ul Kalpana a permis segmentarea traficului de rețea și a îmbunătățit semnificativ performanța rețelelor Ethernet prin reducerea coliziunilor de pachete de date.",
+        "date": "1991",
+        "inventor": "Kalpana" 
+    },
+    {
+        "title": "Cartela SIM",
+        "image": "https://imgs.search.brave.com/66f0lfiBamHmZ-0hKy7kAx77jyaUnhTSE-WxcepDHvI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5rYXNwZXJza3lk/YWlseS5jb20vd3At/Y29udGVudC91cGxv/YWRzL3NpdGVzLzM2/LzIwMTYvMDEvMDUw/ODUwNTMvc2ltLWNh/cmQtaGlzdG9yeS1l/dm9sdXRpb24tMTAy/NHgxMDI0LnBuZw",
+        "description": "Primul card SIM (Subscriber Identity Module) a fost inventat de compania germană Giesecke & Devrient în 1991. Cardurile SIM sunt esențiale pentru autentificarea utilizatorilor pe rețelele mobile GSM și pentru stocarea informațiilor de identificare ale abonatului. Asigură criptarea și autentificarea comunicării între telefonul mobil și rețea, protejând astfel datele utilizatorilor. Cardurile SIM au revoluționat industria telecomunicațiilor prin simplificarea procesului de autentificare și asigurarea unei metode sigure și portabile de stocare a informațiilor despre abonat. De-a lungul anilor, cardurile SIM au evoluat, devenind mai mici și mai eficiente, de la SIM standard la microSIM și nanoSIM.",
+        "date": "1991",
+        "inventor": "Giesecke & Devrient" 
+    },
+    {
+        "title": "Sistem de rack",
+        "image": "https://i.pinimg.com/originals/af/f1/92/aff1926dd06520eaf1c768f235694149.jpg",
+        "description": "Proliferarea tehnologiei serverelor a dus la dezvoltarea serverelor montate în rack, primul dintre acestea fiind seria ProLiant a companiei Compaq, lansată în 1993. Un cadru de rack cuprinde mai multe sloturi de montare, fiecare proiectat să găzduiască un server. Deoarece un singur rack poate găzdui și stivui mai multe servere, este nevoie de mai puțin spațiu pentru a depozita mașinile.",
+        "date": "1993",
+        "inventor": "Compaq company" 
+    },
+    {
+        "title": "MultiMediaCard (MMC)",
+        "image": "https://i.ebayimg.com/images/g/978AAOSwzbFmVDsx/s-l1600.webp",
+        "description": "MMC a fost important pentru introducerea și popularizarea cardurilor de memorie flash în dispozitivele portabile. Deși cardurile SD au preluat rapid piața datorită funcționalităților și securității suplimentare, MMC a jucat un rol crucial în evoluția tehnologiei de stocare digitală.Folosește o interfață serială cu 1 bit pentru comunicare cu dispozitivul gazdă.  Designul său a fost ulterior adoptat și adaptat pentru cardurile SD, care au devenit mai populare",
+        "date": "1997",
+        "inventor": "Siemens AG și SanDisk" 
+    },
+    {
+        "title": "Card SD",
+        "image": "https://blog.westerndigital.com/wp-content/uploads/2020/06/The-First-SD-Card-Controller-Carmel-Nov1999-Designed-at-SanDisk-Israel.jpeg.jpg",
+        "description": "Cardurile SD au fost proiectate pentru a înlocui MultiMediaCard (MMC) și pentru a oferi o soluție de stocare mai sigură și fiabilă pentru fotografii, muzică, video și alte date digitale. Include un comutator mecanic pentru protecția la scriere și funcții de criptare pentru protejarea conținutului digital. Ca si Dimensiuni: 32 mm X 24 mm X 2.1 mm",
+        "date": "1999",
+        "inventor": "SanDisk, Matsushita Electric (Panasonic) și Toshiba" 
     }
 ]
