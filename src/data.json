@@ -419,5 +419,216 @@
         "description": "Cardurile SD au fost proiectate pentru a înlocui MultiMediaCard (MMC) și pentru a oferi o soluție de stocare mai sigură și fiabilă pentru fotografii, muzică, video și alte date digitale. Include un comutator mecanic pentru protecția la scriere și funcții de criptare pentru protejarea conținutului digital. Ca si Dimensiuni: 32 mm X 24 mm X 2.1 mm",
         "date": "1999",
         "inventor": "SanDisk, Matsushita Electric (Panasonic) și Toshiba" 
+    },
+    {
+        "title": "HDMI",
+        "image": "https://s13emagst.akamaized.net/products/55165/55164664/images/res_c982e63bcac6c701c639646ef1d6066b.jpg",
+        "description": "HDMI, sau High-Definition Multimedia Interface, a fost lansat în 2003 și este un standard pentru transferul de date video și audio de înaltă definiție între dispozitive. Dezvoltat de un consorțiu de producători, inclusiv Hitachi, Panasonic, Philips, Sony și Toshiba, HDMI a devenit rapid standardul pentru conectarea dispozitivelor multimedia, precum televizoare, monitoare, console de jocuri și playere media.\nHDMI permite transmiterea necompresată a semnalelor video și audio, oferind o calitate superioară a imaginii și sunetului față de conexiunile analogice anterioare. De asemenea, suportă diverse formate de sunet surround și rezoluții video, inclusiv 4K și 8K, fiind esențial pentru experiența modernă de divertisment digital.",
+        "date": "2003",
+        "inventor": "Hitachi, Panasonic, Philips, Silicon Image, Sony, Thomson, Toshiba" 
+    },
+    {
+        "title": "USB",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Type_A_USB_connector.jpg",
+        "description": "USB, sau Universal Serial Bus, a fost introdus în 1996 pentru a standardiza conexiunile periferice la computere. Dezvoltat de un grup de companii, inclusiv IBM, Intel, Microsoft și Compaq, USB a simplificat conectarea dispozitivelor precum tastaturi, mouse-uri, imprimante și dispozitive de stocare externă.\nUSB a evoluat prin mai multe versiuni, fiecare aducând îmbunătățiri semnificative în viteza de transfer și capacitatea de alimentare electrică. De la USB 1.0 la USB 4.0, această tehnologie a permis transferuri de date mai rapide și a devenit un standard esențial pentru interconectarea dispozitivelor electronice moderne.",
+        "date": "1996",
+        "inventor": "Ajay Bhatt" 
+    },
+    {
+        "title": "Ethernet",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxf7WbeASDJXDtg4l8fuu8r9dz42PJcNDqlXrzflBaDg&s",
+        "description": "Ethernet, inventat de Robert Metcalfe și David Boggs în 1973, este o tehnologie de rețea utilizată pentru conectarea calculatoarelor într-o rețea locală (LAN). Aceasta permite transferuri de date rapide și fiabile între dispozitivele dintr-o rețea, fiind standardizată prin IEEE 802.3.\nEthernet a devenit fundamentul rețelelor de calculatoare moderne, oferind viteze de transfer care au evoluat de la 10 Mbps la peste 100 Gbps. Datorită fiabilității și scalabilității sale, Ethernet este utilizat pe scară largă în rețelele casnice, corporative și industriale.",
+        "date": "1973",
+        "inventor": "Robert Metcalfe" 
+    },
+    {
+        "title": "Thunderbolt",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Thunderbolt-Connector.jpg",
+        "description": "Thunderbolt, lansat în 2011 printr-o colaborare între Intel și Apple, este o tehnologie de interfață care combină PCI Express și DisplayPort într-o singură conexiune. Aceasta permite transferuri de date extrem de rapide și conectarea simultană a mai multor tipuri de dispozitive.\nThunderbolt a revoluționat conectivitatea perifericelor, oferind viteze de transfer de până la 40 Gbps și suport pentru daisy-chaining, adică conectarea în serie a mai multor dispozitive. De asemenea, este compatibil cu alimentarea electrică a dispozitivelor, reducând nevoia de cabluri suplimentare și simplificând configurările complexe.",
+        "date": "2011",
+        "inventor": "Intel, Apple" 
+    },
+    {
+        "title": "DisplayPort",
+        "image": "https://www.unigraf.fi/app/uploads/2020/03/What-to-test-in-DisplayPort-Featured-Image.webp",
+        "description": "DisplayPort, introdus de Video Electronics Standards Association (VESA) în 2006, este un standard de interfață digitală pentru conectarea monitoarelor și altor dispozitive de afișare la computere și alte surse video. DisplayPort suportă rezoluții înalte și rate de reîmprospătare rapide, oferind o calitate superioară a imaginii.\nDisplayPort a fost conceput pentru a înlocui conectorii VGA și DVI, oferind un singur cablu pentru transmisia simultană a datelor video și audio. Este utilizat pe scară largă în aplicații profesionale și de consum, suportând tehnologii avansate precum multi-stream transport (MST) și daisy-chaining.",
+        "date": "2006",
+        "inventor": "VESA" 
+    },
+    {
+        "title": "VGA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vga-cable.jpg",
+        "description": "VGA, sau Video Graphics Array, a fost introdus de IBM în 1987 ca un standard de afișare pentru computere. Acesta a devenit rapid un standard industrial datorită capacităților sale superioare de afișare grafică, permițând rezoluții de 640x480 pixeli cu 16 culori și moduri de 256 de culori.\nDe-a lungul decadelor, VGA a fost folosit pe scară largă pentru monitoare și proiectoare, devenind un conector omniprezent în echipamentele informatice. Deși a fost în mare parte înlocuit de standardele digitale precum HDMI și DisplayPort, VGA rămâne o tehnologie de bază în multe aplicații retro și industriale.",
+        "date": "1987",
+        "inventor": "IBM" 
+    },
+    {
+        "title": "DVI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Dvi-cable.jpg",
+        "description": "DVI, sau Digital Visual Interface, a fost dezvoltat în 1999 de Digital Display Working Group (DDWG) pentru a înlocui standardele analogice de afișare și pentru a asigura o calitate superioară a imaginii digitale. DVI permite transmisia de semnale video digitale și analogice, fiind compatibil cu diverse tipuri de monitoare și proiectoare.\nDVI a fost adoptat pe scară largă în calculatoare și echipamente de afișare datorită capacității sale de a oferi imagini clare și detaliate. Deși HDMI și DisplayPort au preluat conducerea în aplicațiile moderne, DVI rămâne relevant în multe configurații de echipamente profesionale și industriale.",
+        "date": "1999",
+        "inventor": "Digital Display Working Group (DDWG)" 
+    },
+    {
+        "title": "SATA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/SATA_power_cable.jpg",
+        "description": "SATA, sau Serial ATA, a fost introdus în 2003 ca un standard pentru conectarea dispozitivelor de stocare interne, precum hard disk-uri și unități SSD, la computere. SATA a înlocuit standardul anterior Parallel ATA (PATA), oferind viteze de transfer mai rapide și cabluri mai subțiri și mai eficiente.\nSATA a devenit rapid standardul pentru stocarea internă datorită îmbunătățirilor semnificative în performanță și fiabilitate. Versiunile ulterioare ale SATA au continuat să îmbunătățească vitezele de transfer și să ofere funcționalități avansate, cum ar fi hot-swapping și Native Command Queuing (NCQ).",
+        "date": "2003",
+        "inventor": "Serial ATA International Organization" 
+    },
+    {
+        "title": "PCI Express",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/PCI-E_%26_PCI_slots_on_DFI_LanParty_nF4_SLI-DR_20050531.jpg",
+        "description": "PCI Express, sau PCIe, introdus în 2003 de PCI-SIG (Peripheral Component Interconnect Special Interest Group), este un standard de interfață pentru conectarea componentelor interne ale calculatorului, precum plăci grafice, SSD-uri și alte dispozitive de mare viteză. PCIe a înlocuit standardele anterioare PCI și AGP, oferind o lățime de bandă mult mai mare și o eficiență sporită.\nPCIe a devenit esențial pentru performanța calculatoarelor moderne, permițând transferuri rapide de date și suportând multiple dispozitive simultan prin intermediul unui bus comun. Standardul continuă să evolueze, cu versiuni noi ce aduc îmbunătățiri semnificative în viteza și capacitatea de transfer.",
+        "date": "2003",
+        "inventor": "PCI-SIG" 
+    },
+    {
+        "title": "FireWire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/FireWire800_Stecker.jpeg",
+        "description": "FireWire, sau IEEE 1394, dezvoltat de Apple în anii 1980 și lansat în 1995, este un standard de interfață pentru comunicații de mare viteză între dispozitive digitale, precum camere video, hard disk-uri externe și alte echipamente multimedia. FireWire permite transferuri rapide și stabile de date, fiind utilizat pe scară largă în aplicații video și audio profesionale.\nFireWire a fost cunoscut pentru simplitatea utilizării și fiabilitatea sa în transferurile de date mari. Deși utilizarea sa a scăzut odată cu apariția USB 3.0 și Thunderbolt, FireWire rămâne o tehnologie importantă în anumite aplicații de nișă, datorită performanței sale robuste și a latenței reduse.",
+        "date": "1995",
+        "inventor": "Apple" 
+    },
+    {
+        "title": "M.2",
+        "image": "https://forum.shiftdelete.net/ekler/intel-525-series-msata-ssd-1-large-jpg.9553/",
+        "description": "M.2, cunoscut inițial ca NGFF (Next Generation Form Factor), a fost introdus în 2012 ca un standard pentru modulele interne de stocare și alte componente de calcul. M.2 a fost conceput pentru a înlocui standardele mSATA și mini-PCIe, oferind performanțe mai mari și o mai mare flexibilitate în designul componentelor.\nM.2 suportă o varietate de interfețe, inclusiv SATA și PCIe, permițând viteze de transfer extrem de rapide și o gamă largă de aplicații, de la SSD-uri de mare viteză la module Wi-Fi și Bluetooth. Dimensiunea sa compactă și versatilitatea au făcut din M.2 un standard esențial pentru laptopuri, desktopuri și alte dispozitive mobile moderne.",
+        "date": "2012",
+        "inventor":"Intel"
+    },
+    {
+        "title": "RJ45",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ethernet_RJ45_connector_p1160054.jpg",
+        "description": "RJ45 este un standard de conector utilizat pe scară largă pentru cablurile de rețea Ethernet. Apărut în anii 1980, RJ45 este utilizat pentru a conecta computerele și alte dispozitive la rețele locale (LAN) și la Internet, fiind fundamental pentru infrastructura de rețea modernă.\nConectorul RJ45 permite transmiterea datelor la viteze de până la 10 Gbps, în funcție de tipul de cablu utilizat. Este un element crucial în configurările de rețea, oferind o conexiune fiabilă și ușor de utilizat pentru comunicațiile de date rapide și eficiente.",
+        "date": "1973",
+        "inventor": "Bell Laboratories" 
+    },
+    {
+        "title": "eSATA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/SATA2_und_eSATA-Stecker.jpg",
+        "description": "eSATA, sau External Serial ATA, a fost introdus în 2004 ca o variantă externă a standardului SATA, destinat conectării dispozitivelor de stocare externe la computere. eSATA oferă viteze de transfer similare cu cele ale SATA interne, permițând transferuri rapide de date pentru hard disk-uri externe și unități SSD.\nDeși eSATA a fost popular pentru o perioadă, utilizarea sa a scăzut în favoarea altor standarde precum USB 3.0 și Thunderbolt, care oferă o mai mare versatilitate și compatibilitate. Totuși, eSATA rămâne o soluție viabilă pentru transferuri rapide de date în anumite configurații profesionale și de stocare.",
+        "date": "2004",
+        "inventor": "SATA-IO" 
+    },
+    {
+        "title": "Mini DisplayPort",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHM6SxGpDZr_EKY_nC2Y6QIxuV7M2aHPAbadaSl6CWew&s",
+        "description": "Mini DisplayPort, introdus de Apple în 2008, este o versiune redusă a conectorului DisplayPort, utilizată pentru transmiterea semnalelor video și audio de înaltă definiție. Acest conector compact a fost conceput pentru a economisi spațiu pe dispozitivele portabile, precum laptopurile și tabletele.\nMini DisplayPort este capabil să suporte rezoluții video înalte și rate de reîmprospătare rapide, fiind utilizat pe scară largă în produse Apple și alte dispozitive electronice. Compatibilitatea sa cu adaptoare pentru HDMI, DVI și VGA a contribuit la adoptarea sa pe scară largă în diverse medii de lucru și divertisment.",
+        "date": "2008",
+        "inventor": "Apple" 
+    },
+    {
+        "title": "Micro-USB",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KaPqVvRZVooPIJa1grKcJkj20bGPcwWe2DWgJ3flDA&s",
+        "description": "Micro-USB, introdus în 2007, a devenit un standard universal pentru conectarea și încărcarea dispozitivelor mobile, inclusiv smartphone-uri, tablete și accesorii. Dezvoltat de USB-IF (USB Implementers Forum), Micro-USB a oferit o soluție compactă și eficientă pentru transferul de date și alimentare electrică.\nMicro-USB a fost adoptat pe scară largă datorită dimensiunii sale reduse și compatibilității extinse cu o gamă largă de dispozitive. Deși a fost în mare parte înlocuit de USB-C în dispozitivele moderne, Micro-USB rămâne relevant în multe produse mai vechi și accesorii.",
+        "date": "2007",
+        "inventor": "USB Implementers Forum" 
+    },
+    {
+        "title": "Lightning",
+        "image": "https://www.zdnet.com/a/img/resize/8a14a65eb7bd7bb20972e5a6400e25ebb19bacca/2022/10/13/1e002f5a-ed94-4194-a416-bdd848da4c25/img-0341.jpg?auto=webp&fit=crop&height=1200&width=1200",
+        "description": "Lightning, introdus de Apple în 2012, este un conector proprietar utilizat pentru încărcarea și transferul de date pe dispozitivele Apple, inclusiv iPhone, iPad și iPod. Lightning a înlocuit conectorul anterior de 30 de pini, oferind o soluție mai compactă și mai versatilă.\nUn avantaj semnificativ al conectorului Lightning este reversibilitatea sa, permițând utilizatorilor să-l conecteze în orice orientare. Acesta a fost integrat profund în ecosistemul Apple, oferind compatibilitate cu o gamă largă de accesorii și dispozitive, de la căști la dock-uri de încărcare.",
+        "date": "2012",
+        "inventor": "Apple" 
+    },
+    {
+        "title": "MagSafe",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2021/11/Macbook-Pro-2021-MagSafe-cable-detail-scaled.jpg",
+        "description": "MagSafe, introdus de Apple în 2006, este un conector magnetic utilizat pentru alimentarea laptopurilor MacBook. Conceput pentru a preveni accidentele, MagSafe se deconectează automat atunci când cablul este tras brusc, protejând atât dispozitivul, cât și utilizatorul.\nMagSafe a fost lăudat pentru designul său inovator și ușurința de utilizare, devenind un element distinctiv al laptopurilor Apple. Deși Apple a trecut la USB-C pentru alimentare în modelele mai recente, MagSafe a fost reintrodus în 2021 datorită popularității și fiabilității sale.",
+        "date": "2006",
+        "inventor": "Apple" 
+    },
+    {
+        "title": "Conector TRS",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HxRz8lvgeA_jnU2kcfDrjBscHZpkgRqf1xUJ1_upvw&s",
+        "description": "Conectorul TRS, sau Tip-Ring-Sleeve, este un conector audio utilizat pe scară largă pentru căști, instrumente muzicale și echipamente audio profesionale. Disponibil în diferite dimensiuni, cel mai comun fiind de 3.5 mm și 6.35 mm (1/4 inch), TRS permite transmiterea semnalelor audio stereo sau balansate.\nConectorul TRS este cunoscut pentru fiabilitatea sa și capacitatea de a oferi o calitate superioară a sunetului. Este utilizat pe scară largă în electronicele de consum și în industria audio profesională, fiind esențial pentru conectarea echipamentelor de sunet.",
+        "inventor": "",
+        "date": "1900"
+    },
+    {
+        "title": "Cablu Coaxial",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvgqu6QUEjCnMK-MIrdG8ItRcCNF2kbBlRGqx1F5cJNA&s",
+        "description": "Cablu coaxial este un tip de cablu electric utilizat pentru transmisia semnalelor de radiofrecvență. Acesta constă dintr-un conductor central înconjurat de un strat izolator și un scut conductor. Cablu coaxial este utilizat pe scară largă în rețelele de televiziune prin cablu, internet și pentru conectarea antenelor la receivere TV.\nDatorită designului său, cablu coaxial oferă o protecție excelentă împotriva interferențelor electromagnetice, asigurând o transmisie clară și fiabilă a semnalelor. Este o componentă crucială în infrastructurile de telecomunicații și în aplicațiile de transmisie de date.",
+        "date": "1880",
+        "inventor": "Oliver Heaviside" 
+    },
+    {
+        "title": "RS-232",
+        "image": "https://stratusengineering.com/wp-content/uploads/2016/07/RS232-9-pin-pinout-explained.jpg",
+        "description": "RS-232, standardizat în 1960 de Electronic Industries Association (EIA), este un protocol pentru comunicații seriale utilizat pentru conectarea echipamentelor de calcul și a dispozitivelor periferice. Acesta permite transmisia de date printr-un cablu serial, fiind folosit în aplicații industriale, echipamente de telecomunicații și calculatoare.\nDeși vitezele sale de transfer sunt limitate comparativ cu standardele moderne, RS-232 rămâne popular datorită simplității și fiabilității sale în medii critice. Este utilizat pe scară largă în configurările de hardware industrial și pentru interfațarea echipamentelor de rețea și telecomunicații.",
+        "date": "1960",
+        "inventor": "Electronic Industries Association (EIA)"
+    },
+    {
+        "title": "Port Paralel",
+        "image": "https://images.tokopedia.net/img/cache/500-square/product-1/2018/12/1/2674517/2674517_cc91e05e-5b99-41d1-a28c-2d656b350dc9_554_554.jpg",
+        "description": "Portul paralel, introdus în anii 1970 de Centronics, a fost utilizat pe scară largă pentru conectarea imprimantelor la computere. Utilizând o conexiune cu 25 de pini (DB25), portul paralel permitea transferul simultan de date pe mai multe fire, asigurând viteze mai mari decât porturile seriale contemporane.\nPortul paralel a fost crucial pentru perifericele computerelor de la sfârșitul secolului XX, fiind folosit pentru imprimante, scanere și alte dispozitive. Deși USB a înlocuit majoritatea utilizărilor portului paralel, acesta rămâne prezent în anumite aplicații industriale și de control al mașinilor.",
+        "date": "1970",
+        "inventor": "Centronics"
+    },
+    {
+        "title": "Cablu de fibră optică",
+        "image": "https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg",
+        "description":  "Cablu de fibră optică, dezvoltat în anii 1970, revoluționează telecomunicațiile prin transmiterea datelor prin impulsuri de lumină printr-o fibră de sticlă sau plastic. Această tehnologie permite transferuri de date la viteze foarte mari și pe distanțe lungi, cu o interferență electromagnetică minimă.\nFibrele optice sunt utilizate pe scară largă în rețelele de internet de mare viteză, televiziune prin cablu și telecomunicații. Ele oferă o capacitate mare de lățime de bandă și sunt esențiale pentru infrastructurile moderne de comunicații și pentru transferurile rapide de date la nivel global.",
+        "date": "1970",
+        "inventor": "" 
+    },
+    {
+        "title": "PS/2",
+        "image": "https://media.istockphoto.com/id/1359400497/photo/ps-2-computer-port-used-for-connecting-a-keyboard-and-mouse-using-a-6-pin-mini-din-connector.jpg?s=170667a&w=0&k=20&c=8hV9uYY9zk_XjI5cxnmsWQLkltuO55nlVlQoK0nGqd4=",
+        "description": "PS/2, introdus de IBM în 1987, este un conector standard pentru tastaturi și mouse-uri, utilizat pe computerele personale. Conectorul PS/2 este rotund, cu 6 pini, și oferă o conexiune robustă și fiabilă pentru perifericele de intrare.\nDeși USB a înlocuit în mare măsură PS/2 datorită flexibilității și vitezei superioare, conectorul PS/2 este încă folosit în anumite sisteme, în special în mediile care necesită stabilitate și latență scăzută, cum ar fi serverele și echipamentele industriale.",
+        "date": "1987",
+        "inventor": "IBM" 
+    },
+    {
+        "title": "SCSI",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjnJlhObW5GWDzHiYUSdJl7rycClw8onxNJXrgpVFEA&s",
+        "description": "SCSI, sau Small Computer System Interface, standardizat în 1986, este un set de standarde pentru conectarea și transferul de date între computere și dispozitive periferice. SCSI suportă multiple dispozitive pe un singur bus, oferind viteze mari de transfer și flexibilitate în configurarea sistemelor de stocare.\nSCSI a fost utilizat pe scară largă în servere, stații de lucru și echipamente de stocare de date datorită performanței și fiabilității sale. Deși a fost în mare parte înlocuit de standarde mai moderne precum SATA și SAS, SCSI rămâne relevant în anumite aplicații de stocare de date de înaltă performanță.",
+        "date": "1986",
+        "inventor": ""
+        
+    },
+    {
+        "title": "Mini USB",
+        "image": "https://cdn2.webdamdb.com/1280_AqfYpKGiFW17IGSF.jpg?1629729506",
+        "description": "Mini USB, introdus la începutul anilor 2000, este o versiune mai mică a conectorului USB standard, utilizată pentru dispozitive portabile precum camere digitale, telefoane mobile și alte electronice compacte. Mini USB a permis transferuri de date și încărcare într-un format redus și ușor de utilizat.\nDeși a fost popular pentru o perioadă, Mini USB a fost în mare parte înlocuit de Micro USB și USB-C, care oferă performanțe superioare și dimensiuni mai mici. Totuși, Mini USB rămâne prezent în anumite echipamente mai vechi și accesorii.",
+        "date": "2000",
+        "inventor": "" 
+    },
+    {
+        "title": "Conector BNC",
+        "image": "https://conectica.ro/fisiere/produse/popup/4/NBB75DFGX-2.jpg",
+        "description": "Conectorul BNC, dezvoltat în anii 1940 de Paul Neill și Carl Concelman, este un conector pentru cabluri coaxiale, utilizat pe scară largă în telecomunicații, echipamente video și rețele de date. Conectorul BNC oferă o conexiune sigură printr-un mecanism de blocare cu baionetă.\nBNC este apreciat pentru fiabilitatea sa și capacitatea de a menține o conexiune stabilă în medii cu interferențe electromagnetice ridicate. Este utilizat în mod frecvent în aplicații profesionale de transmisie video și în rețelele de date pe distanțe scurte.",
+        "date": "1940",
+        "inventor": "Paul Neill și Carl Concelman" 
+    },
+    {
+        "title": "Conector Molex",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaNx6cb3ARoDhJ7X_MNVwsOME5W2b5eEGNH8uULC27A&s",
+        "description": "Conectorul Molex, introdus în anii 1950 de Molex Corporation, este un conector electric utilizat pentru alimentarea componentelor interne ale calculatoarelor, precum unități de stocare și ventilatoare. Conectorul Molex cu 4 pini a devenit un standard pentru alimentarea hard disk-urilor și a altor periferice în computerele personale.\nConectorul Molex este cunoscut pentru durabilitatea și capacitatea sa de a oferi o conexiune stabilă și fiabilă. Deși standardele moderne de alimentare, precum SATA power, au înlocuit în mare măsură Molex în computerele recente, acesta rămâne utilizat în multe sisteme mai vechi și în anumite aplicații industriale.",
+        "date": "1950",
+        "inventor": "Molex Incorporated" 
+    },
+    {
+        "title": "Conector XLR",
+        "image": "https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,q_auto,w_700/c_pad,w_700/F7424517-01",
+        "description": "Conectorul XLR, dezvoltat de James H. Cannon în anii 1950, este un conector electric utilizat pe scară largă în industria audio pentru conectarea microfoanelor, echipamentelor de sunet și iluminat. Conectorul XLR cu 3 pini este cel mai comun, dar există și variante cu mai mulți pini pentru diferite aplicații.\nXLR este apreciat pentru durabilitatea și capacitatea sa de a oferi o conexiune echilibrată, reducând zgomotul și interferențele. Este un standard în echipamentele audio profesionale, fiind esențial pentru performanțele live și înregistrările de studio.",
+        "date": "1950",
+        "inventor": "James H. Cannon" 
+    },
+    {
+        "title": "Conector RCA",
+        "image": "https://www.docom.ro/userfiles/28e2456a-e75d-4601-a71b-fb7f101b2166/products/5311245_big.jpg",
+        "description": "Conectorul RCA, introdus în anii 1940 de RCA Corporation, este un conector utilizat pe scară largă pentru semnalele audio și video. RCA este cunoscut pentru ușurința sa de utilizare și compatibilitatea cu o gamă largă de echipamente de divertisment, inclusiv televizoare, sisteme audio și console de jocuri.\nRCA este utilizat pentru a transmite semnale analogice, fiind folosit în principal pentru conexiunile audio stereo și video composite. Deși standardele digitale au înlocuit în mare parte RCA în echipamentele moderne, acesta rămâne relevant în multe sisteme de divertisment și echipamente audio retro.",
+        "date": "1940",
+        "inventor": "Radio Corporation of America" 
+    },
+    {
+        "title": "TOSLINK",
+        "image": "https://www.lifewire.com/thmb/2o6RrfmFz3pjkJWSxzd3zubsEYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-74583404-57ca12915f9b5829f442b31b.jpg",
+        "description": "TOSLINK, sau Toshiba Link, introdus de Toshiba în 1983, este un standard pentru conexiunile audio optice. Utilizând cabluri de fibră optică, TOSLINK permite transmiterea semnalelor audio digitale fără interferențe electromagnetice, oferind o calitate superioară a sunetului.\nTOSLINK este utilizat pe scară largă în sistemele de home theater, receivere AV și alte echipamente audio digitale. Conexiunile optice TOSLINK sunt apreciate pentru claritatea și fidelitatea lor, fiind o componentă esențială pentru experiențele audio de înaltă definiție.",
+        "date": "1983",
+        "inventor": "Toshiba" 
     }
 ]
